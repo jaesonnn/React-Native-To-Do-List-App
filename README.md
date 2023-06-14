@@ -1,4 +1,4 @@
-# To-Do-List
+# React Native To Do List
 A simple To Do List app built with React Native that enables users to create and delete tasks effortlessly. With a minimalist interface, it provides an intuitive and efficient solution for organizing daily tasks. Stay productive and organized with this lightweight app.
 
 ## Installation
