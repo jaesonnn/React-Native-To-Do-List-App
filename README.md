@@ -9,7 +9,7 @@ To run this app on your local machine, please follow these steps:
 4. Run `npm install` to install the required dependencies.
 
 ## Running the App
-Once you have installed the dependencies, you can start the app using the following comman:
+Once you have installed the dependencies, you can start the app using the following command:
 `expo start`
 This will start the Metro Bundler and open a new tab in your default browser. You will also see a QR code in the terminal.
 
